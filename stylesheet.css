@@ -1,0 +1,64 @@
+#div0 {
+	float:left;
+	display:block;
+	color:red;
+	background-color:grey;
+	padding:0px 20px 0px 20px;
+	height:100px;
+	width:320px;
+	font-family:cursive;
+	position:relative;
+	
+}
+
+#div1 {
+	float:left;
+	display:block;
+	color:black;
+	background-color:pink;
+	padding:0px 20px 0px 20px;
+	height:100px;
+	width:320px;
+	font-family:cursive;
+	position:relative;
+	
+}
+
+#label1 {
+	float:left;
+	display:block;
+	color:black;
+	background-color:red;
+	padding:0px 20px 0px 20px;
+	height:20px;
+	width:100px;
+	font-family:cursive;
+	position:relative;
+	
+}
+
+#label2 {
+	float:left;
+	display:block;
+	color:black;
+	background-color:red;
+	padding:0px 20px 0px 20px;
+	height:20px;
+	width:100px;
+	font-family:cursive;
+	position:relative;
+	
+}
+#h2two {
+
+	position:relative;
+	left:120px;
+
+}
+img {
+	display:block;
+	float:left;
+	position:relative;
+	left:-300px;
+	top:10px;
+}
